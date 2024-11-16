@@ -3,15 +3,11 @@
 title: Steffen Wedig
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Steffen
 last_name: Wedig
 
 # Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +16,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student Scientific Computing @ University of Cambridge
+role: Student MPhil Scientific Computing @ University of Cambridge
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
@@ -49,12 +45,12 @@ education:
   - area: MPhil Scientific Computing
     institution: University of Cambridge
     date_start: 2024-10-01
-    date_end: 2025-8-31
+    date_end: 2025-08-31
     summary: |
       Lectures on methods for atomistic simulation (classical MD, AIMD, electronic structure) and high-performance computing (C++, CUDA, MPI, OpenMP). Thesis topics TBD.
   - area: MSc. Materials Science and Engineering
     institution: Technical University of Munich
-    date_start: 2022-10-1
+    date_start: 2022-10-01
     date_end: 2024-09-30
     summary: |
       Grade 1.3
@@ -78,7 +74,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-08-01
-    date_end: '2024-01-31'
+    date_end: 2024-01-31
     summary: |2-
       Initiated project developing experimental 3D-printer for lunar additive manufacturing. Responsible for mechanical design, simulation of the sintering process, development of printer control software, and manufacturing/assembly. Supervised by Dr. Aidan Cowley.
 
@@ -122,4 +118,3 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
