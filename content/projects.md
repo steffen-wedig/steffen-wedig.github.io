@@ -9,15 +9,10 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: markdown
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+      title: First Project
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+---
 ---
