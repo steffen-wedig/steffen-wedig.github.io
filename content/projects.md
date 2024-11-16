@@ -12,9 +12,9 @@ sections:
   - block: markdown
     content:
       title: Prior Potentials for Stable Molecular Dynamics Simulations with Machine Learning Force Fields
-      subtitle: Master's Thesis at the Chair for Multiscale Modeling of Fluid Materials - Prof. Julija Zavadlav - 6 mo.
+      subtitle: Masters thesis at the Chair for Multiscale Modeling of Fluid Materials - Prof. Julija Zavadlav - 6 mo.
       text: |
-      Training ML potentials top-down requires running MD simulations with during training to compare the observables from simulation with experimental values. However, untrained ML potentials can cause MD simualations to destabilize. In my master's thesis, I developed Delta-Learning methods for combining the stability of empirical force fields and and the accuracy of ML interatomic potentials. From a statistical perspective, this Delta Learning approach can be seen as placing a prior (the classical force field) on the phase space distribution. Further, I reviewed different measures of stability of MD simulations, and investigated parameters that influence the quality of both the classical and ML potentials - e.g. the functional form of the prior. The project was developed with JAX, JAX M.D., and the chemtrain library.
+      Training ML potentials top-down requires running MD simulations with during training to compare the observables from simulation with experimental values. However, untrained ML potentials can cause MD simualations to destabilize. In my masters thesis, I developed Delta-Learning methods for combining the stability of empirical force fields and and the accuracy of ML interatomic potentials. From a statistical perspective, this Delta Learning approach can be seen as placing a prior (the classical force field) on the phase space distribution. Further, I reviewed different measures of stability of MD simulations, and investigated parameters that influence the quality of both the classical and ML potentials - e.g. the functional form of the prior. The project was developed with JAX, JAX M.D., and the chemtrain library.
   - block: markdown
     content:
       title: Active Learning of Equivariant Graph Neural Network Potentials for Metal-Organic Frameworks
@@ -24,9 +24,9 @@ sections:
   - block: markdown
     content:
       title: Application of Nickel-containing Inks in the Binder Jet 3D-Printing of Ni/Al2O3 Catalysts for CO2 Methanation
-      subtitle: Bachelor's Thesis at the Chair of Technical Chemistry 1 - Prof. Kai-Olaf Hinrichsen - 3 mo.
+      subtitle: Bachelors Thesis at the Chair of Technical Chemistry 1 - Prof. Kai-Olaf Hinrichsen - 3 mo.
       text: |
-      Many essential industrial processes depend on catalysis. Otimization of catalysts and reactors can be difficult, due to manufacturing contraints of the catalysts pellets. Additive manufacturing offers the capability of produce (almost) ny desired shape, and could therefore be used for optimizing catalayst pellets geometries and thereby the chemical reactions. In my bachelor's thesis, I used a 3D-printing manufacturing process (binder jetting) of alumina supported nickel catalysts for CO2-reduction. The laboratory work in the experimental group of the Chair for Technical Chemistry 1 contained a wide range of mechanical, physical, and chemical characterization - Crushing strength tests, porosometry, N2 physisorption, powder XRD, UV/VIS Spectroscopy, TEM, XPS.  
+      Many essential industrial processes depend on catalysis. Otimization of catalysts and reactors can be difficult, due to manufacturing contraints of the catalysts pellets. Additive manufacturing offers the capability of produce (almost) ny desired shape, and could therefore be used for optimizing catalayst pellets geometries and thereby the chemical reactions. In my bachelors thesis, I used a 3D-printing manufacturing process (binder jetting) of alumina supported nickel catalysts for CO2-reduction. The laboratory work in the experimental group of the Chair for Technical Chemistry 1 contained a wide range of mechanical, physical, and chemical characterization - Crushing strength tests, porosometry, N2 physisorption, powder XRD, UV/VIS Spectroscopy, TEM, XPS.  
   - block: markdown
     content:
       title: Sintering with Concentrated Sunlight On Regolith for Constructing Lunar Habitats (SCORCH)
