@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm interested in using computational methods in materials science to understand, model, and design novel materials. I am particularly excited by combining simulation techniques like molecular dynamics and electronic structure calculations with machine learning. 
+        Computational materials science bridges physical theory and experimental discovery. My research focuses on leveraging simulation techniques such as molecular dynamics and electronic structure calculations - augmented by machine learning - to understand and design materials on microscopic scales. I'm passionate about tackling interdisciplinary challenges, where computation, engineering, experiment, and theory come together to bring awesome ideas into reality. 
     design:
       columns: '1'
 
