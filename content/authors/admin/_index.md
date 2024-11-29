@@ -91,8 +91,6 @@ languages:
 awards:
   - title: German Academic Scholarship Foundation
     date: '2020-04-01'
-    awarder: Coursera
-    icon: coursera
     summary: |
       Supported Bachelor's, Master's Studies at Technical University of Munich, Supported MPhil at University of Cambridge with additional "Study-Abroad" program.
 
